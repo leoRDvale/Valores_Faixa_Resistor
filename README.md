@@ -9,8 +9,8 @@ Para resolver esse problema, os fabricantes imprimem faixas codificadas por core
 resistores para definir seus valores de resistência. Cada faixa tem uma posição e um valor
 numérico.
 As 2 primeiras faixas de um resistor têm um esquema de codificação simples: cada cor é
-mapeada para um número único. Por exemplo, se eles imprimissem uma faixa marrom (valor
-1) seguida por uma faixa verde (valor 5), seria traduzido para o número 15.
+mapeada para um número único. Por exemplo, se eles imprimissem uma faixa marrom (valor 1) 
+seguida por uma faixa verde (valor 5), seria traduzido para o número 15.
 Neste exercício, você criará um programa em Java para não precisar se lembrar dos valores
 das faixas. O programa receberá nomes de cores como entrada e produzirá um número de
 dois dígitos, mesmo que a entrada tenha mais de duas cores! As cores da faixas são
